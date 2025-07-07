@@ -1,6 +1,3 @@
-Absolutely! Below is your `README.md` in clean **GitHub-flavored Markdown**, fully ready to be copied into your GitHub repository:
-
----
 # 🩺 Appointment No-Show Predictor
 
 This project predicts which patients are likely to **miss their medical appointments** and recommends **intervention strategies** such as SMS reminders or cab offers to reduce no-show rates.
@@ -83,7 +80,7 @@ streamlit run app.py
 Use the provided CSV template for testing:
 
 ```
-data/sample_no_show_template.csv
+data/no_show.csv
 ```
 
 Upload it using the Streamlit interface.
